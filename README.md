@@ -1,13 +1,17 @@
 ---
 layout: home
-title: Just the Class
+title: PipeChat
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: PipeChat
 ---
-
+# PipeChat was created in March, 2023 as a prototype for civil engineering use of Large Language Models.
+- Create conversatonal interrogation of large repositories of civil engineering data
+- Ingest Water Utilities operational data to query for operational surveys and reports
+- Expore validation suites for engineering performance measurement and monitoring
+- Develop Machine Learing models for all components of water utility assets
 # Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
