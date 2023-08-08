@@ -18,7 +18,7 @@ tagline: A course on Civil Engineering and Large Language Models
 description: A series of class sessions in Summer 2023
 author: Dave Rauchwerk
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://johngage.github.io/PipeChat/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
