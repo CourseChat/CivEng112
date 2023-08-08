@@ -6,4 +6,4 @@ website: https://kevinl.info
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+I want to add deeper computing expertise to the engineering curriculum.
