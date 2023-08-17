@@ -4,7 +4,7 @@ title: Overview of California water
 Aug 24 (Wed ) 
 : **Course Structure: Overview**{: .label .label-lecture } [Class Overview](lecture/lec.00)
 : Overview of California water; EBMUD’s water and wastewater systems{: .label .label-lecture } ( Kenichi Soga , Clifford Chan and David Katzev )
-**Lecture 1**{: .label .label-lecture } [ Overview](lecture/lec01)
+: **Lecture 1**{: .label .label-lecture } [ Overview of California water](lecture/lec01)
 Aug 26 (Fri) 
 : Industy Challenges and Developing Solutions Through Innovation
 : Lab 1 – California water and wastewater systems , Assignment 1: Outlining water networks
