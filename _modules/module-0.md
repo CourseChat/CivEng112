@@ -22,9 +22,14 @@ Aug 26 (Fri)
 : **Assignment 1**:{: .label .label-purple } Outlining water networks, water agencies, water law[Assignment 1](lecture/ass.01)
 
 : **One**{: .label .label-lab } 
+
 : **One**{: .label .label-lecture }
+
 : **One**{: .label .label-assignment } 
 : **One**{: .label .label-homework } 
 : **One**{: .label .label-video } 
 : **One**{: .label .label-hw }
+: **Discussion 1**{: .label .label-disc }
+
+: **Discussion 1**{: .label .label-disc }
 
