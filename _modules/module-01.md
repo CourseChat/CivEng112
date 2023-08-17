@@ -25,12 +25,12 @@ Aug 22
   : [1.1](#)
 
 Aug 24
-: **Section**{: .label .label-purple }[Intro to Java](#)
+: **Section**{: .label .label-hw }[Intro to Java](#)
   : [Solution](#)
 
 Aug 26
 : **Lab**{: .label .label-purple } [Branstorming Innovation](#)
-: **HW 1 **{: .label .label-red }
+: **HW 1 **{: .label .label-red } [Branstorming Innovation](#)
 
 
 
