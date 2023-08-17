@@ -33,3 +33,8 @@ Aug 26 (Fri)
 
 : **Discussion 1**{: .label .label-disc } [hello](#)
 
+: **Lab 1**{: .label .label-disc } [Industy Challenges-Developing Solutions Through Innovation](lec/lab.01) 
+: **Lab 1**{: .label .label-hw } [Industy Challenges-Developing Solutions Through Innovation](lec/lab.01) 
+: **Lab 1**{: .label .label-lab } [Industy Challenges-Developing Solutions Through Innovation](lec/lab.01) 
+
+
