@@ -17,8 +17,8 @@ title: CivEng112
 tagline: A course on Water
 description: A series of class sessions in Fall 2022
 author: Dave Rauchwerk
-baseurl: 'CivEng112' # the subpath of your site, e.g. /blog
-url: 'https://coursechat.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/CivEng112' # the subpath of your site, e.g. /blog
+url: 'https://coursechat.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings

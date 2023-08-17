@@ -1,17 +1,25 @@
 ---
-title: 
+title: Module 2 Water Supply and Natural Resources
+
 ---
-Module 2 Water Supply and Natural Resources
 
-Sept 7 (Wed ) Water supply and natural resources overview and innovations (Mike Tognolini and Kenichi Soga )
 
-Sept 9 (Fri) Lab 3 – Field visit to San Pablo Reservoir. Quiz 1.
+Sept 7 (Wed) 
+: **Lecture 1**{: .label .label-lecture } [Water supply, natural resources overview and innovations ](lecture/lec01)
 
-Sept 12 (Mon) Water Demand Forecasting (Brad Ledesma and Kenichi Soga )
+ (Mike Tognolini and Kenichi Soga )
 
-Sept 14 (Wed ) Water Supply Resilience and Portfolio Design (Linda Hu and Kenichi Soga )
+Sept 9 (Fri) 
+Lab 3 – Field visit to San Pablo Reservoir. Quiz 1.
 
-Sept 16 (Fri) Lab 4 – Assignment 3 : Calculating the need for water and developing alternative water supply portfolios
+Sept 12 (Mon) 
+Water Demand Forecasting (Brad Ledesma and Kenichi Soga )
+
+Sept 14 (Wed) 
+Water Supply Resilience and Portfolio Design (Linda Hu and Kenichi Soga )
+
+Sept 16 (Fri) 
+Lab 4 – Assignment 3 : Calculating the need for water and developing alternative water supply portfolios
 
 
 
