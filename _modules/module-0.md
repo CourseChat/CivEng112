@@ -23,13 +23,13 @@ Aug 26 (Fri)
 
 : **One**{: .label .label-lab } 
 
-: **One**{: .label .label-lecture } [hello]
+: **One**{: .label .label-lecture } [hello](#)
 
-: **One**{: .label .label-assignment } 
-: **One**{: .label .label-homework } [hello]
-: **One**{: .label .label-video } 
-: **One**{: .label .label-hw } [hello]
-: **Discussion 1**{: .label .label-disc }
+: **One**{: .label .label-assignment } [hello](#)
+: **One**{: .label .label-homework } [hello](#)
+: **One**{: .label .label-video }[hello](#) 
+: **One**{: .label .label-hw } [hello](#)
+: **Discussion 1**{: .label .label-disc } [hello](#)
 
-: **Discussion 1**{: .label .label-disc }
+: **Discussion 1**{: .label .label-disc } [hello](#)
 
