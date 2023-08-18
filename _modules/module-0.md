@@ -2,7 +2,7 @@
 title: Overview of California water
 ---
 Aug 24 (Wed) 
-: **Course Overview**{: .label .label-green } [Overview](lecture/lec00)
+: **Course Overview**{: .label .label-green } [Overview](/CivEng112/lectures/lec00)
 : Projects; Homework; Quizzes; Exams; Site Visits; 
 : **Lecture 1**{: .label .label-lecture } [ Overview of California water](/CivEng112/lectures/aug24)
 : Overview of California water; EBMUD’s water and wastewater systems
