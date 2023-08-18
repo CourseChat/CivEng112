@@ -10,7 +10,7 @@ Nov 9 (Wed )
 
 Nov 11 (Fri)
 : **Group presentations**{: .label .label-orange }    
-VETERANS DAY – no instruction 
+: VETERANS DAY – no instruction 
 
 Nov 11 
 : **Assignment 7 : Submission of Preliminary Project Report **{: .label .label-orange }

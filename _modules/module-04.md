@@ -10,19 +10,19 @@ Oct 3 (Mon)
 
 Oct 5 (Wed) 
 : **Resilient system design including sustainability** []() 
-(Dave Rehnstrom, Bill Maggiore and Kenichi Soga )
+: (Dave Rehnstrom, Bill Maggiore and Kenichi Soga )
 
 Oct 7 (Fri) 
 : **Lab 7 – Field visit to pipeline replacement sites**{: .label .label-lab } 
-Quiz 4.
+: Quiz 4.
 
 Oct 10 (Mon ) 
 : **Pipeline design fundamentals and use of innovative materials**{: .label .label-lecture } []() 
-(Roberts McMullin and Kenichi Soga )
+: (Roberts McMullin and Kenichi Soga )
 
 Oct 12 (Wed) 
 : **Innovations in pipeline maintenance, renewal, and replacement**{: .label .label-lecture }[]() 
-(David Katzev and Kenichi Soga )
+: (David Katzev and Kenichi Soga )
 
 Oct 14 (Fri) 
 : **Lab 8 – CSI pipeline failure testing at RFS**{: .label .label-lab }
@@ -31,11 +31,11 @@ Oct 14 (Fri)
 
 Oct 17 (Mon) 
 : **Pipeline failure analysis**{: .label .label-lecture } []() 
-(David Katzev, Clifford Chan and Kenichi Soga )
+: (David Katzev, Clifford Chan and Kenichi Soga )
 
 Oct 19 (Wed) 
 : **Understanding design drawings**{: .label .label-lecture } []() 
-(Carlton Chan and Kenichi Soga )
+: (Carlton Chan and Kenichi Soga )
 
 Oct 21 (Fri) 
 : **Lab 9 - Group work discussion**{: .label .label-lab } 
