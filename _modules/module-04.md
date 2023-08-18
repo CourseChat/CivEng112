@@ -2,11 +2,13 @@
 title: Module 4 Infrastructure maintenance, renewal, and replacement
  
 ---
-Module 4 Infrastructure maintenance, renewal, and replacement
+title: Module 4 Infrastructure maintenance, renewal, and replacement
+
+: Module Four
 
 Oct 3 (Mon) 
 : **Infrastructure investments overview**{: .label .label-lecture } []() 
-(Jimi Yoloye and Kenichi Soga )
+: (Jimi Yoloye and Kenichi Soga )
 
 Oct 5 (Wed) 
 : **Resilient system design including sustainability** []() 

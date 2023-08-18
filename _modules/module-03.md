@@ -1,8 +1,8 @@
 ---
-title: Module 3 Water and wastewater systems operations
+title: Module 3 - Water and Wastewater systems operations
 ---
 
-Module 3 Water and wastewater systems operations
+: Module 3 Water and Wastewater systems operations
 
 Sept 19 (Mon) 
 : **Water and wastewater system overview and innovations**{: .label .label-lecture } []()
@@ -15,7 +15,7 @@ Sept 21 (Wed)
 Sept 23 (Fri) 
 : **Lab 5 – Field visit to Sobrante Water Treatment Plant**{: .label .label-lab } 
 
-Quiz 2.
+: Quiz 2.
 
 Sept 24 (Sat) 
 : **Optional - Field Trip to Pardee Reservoir**
@@ -31,4 +31,4 @@ Sept 28 (Wed )
 Sept 30 (Fri) 
 : **Lab 6 – Field visit to the Main Wastewater Treatment Plant**{: .label .label-lab } 
 : (Glenn Dombeck, Kevin Dickison, and Alicia Chakrabarti)
-Quiz 3
+: Quiz 3
