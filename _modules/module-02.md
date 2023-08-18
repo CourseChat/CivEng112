@@ -6,7 +6,7 @@ title: Demand Forecasting
 ---
 Sept 7 (Wed) 
 : **Lecture 1**{: .label .label-lecture } [Water supply, natural resources overview and innovations ](lecture/lec01)
- (Mike Tognolini and Kenichi Soga )
+ : (Mike Tognolini and Kenichi Soga )
 
 Sept 9 (Fri) 
 : **Lab 3 – Field visit to San Pablo Reservoir**{: .label .label-lab }. 
@@ -17,7 +17,7 @@ Sept 12 (Mon)
 : (Brad Ledesma and Kenichi Soga )
 
 Sept 14 (Wed) 
-: **Water Supply Resilience and Portfolio Design**{: .label .label-lecture } 
+: **Water Supply Resilience and Portfolio Design**{: .label .label-lecture } []()
 : (Linda Hu and Kenichi Soga )
 
 Sept 16 (Fri) 
