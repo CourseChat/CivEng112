@@ -23,7 +23,7 @@ schedule:
     events:
       - name: Lecture
         start: 11:00 AM
-        end: 12:30 PM
+        end: 12:00 PM
         location: 212 O'Brien
       
       - name: Office Hours
@@ -45,7 +45,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Laboratory
+      - name: Section
         start: 11:00 AM
         end: 2:00 PM
         location: 
