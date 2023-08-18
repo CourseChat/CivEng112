@@ -19,7 +19,6 @@ UC Berkeley, Fall 2022
 [Ed](https://edstem.org/us/courses/31190){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](https://www.gradescope.com/courses/31190){:target="_blank" .btn .btn-gradescope .mr-1 }
-[Extenuating Circumstances](https://forms.gle/GRREdhkik6bKm9bJA){:target="_blank .btn .btn-blue .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
