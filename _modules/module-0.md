@@ -5,12 +5,8 @@ Aug 24 (Wed)
 : **Course Overview**{: .label .label-green } [Overview](lecture/lec00)
 : Projects; Homework; Quizzes; Exams; Site Visits; 
 : **Lecture 1**{: .label .label-lecture } [ Overview of California water](/CivEng112/lectures/aug24)
-
 : Overview of California water; EBMUD’s water and wastewater systems
 : ( Kenichi Soga , Clifford Chan and David Katzev )
-
-: **Overview of California water; EBMUD’s water and wastewater systems**{: .label .label-lecture } [ Overview of California water](/CivEng112/lectures/aug24)
-( Kenichi Soga , Clifford Chan and David Katzev )
 
 Aug 26 (Fri) 
 : **Lab 1**{: .label .label-lab } [Industy Challenges-Developing Solutions Through Innovation](lec/lab.01) 
