@@ -12,7 +12,7 @@ nav_exclude: true
 - [code HTML]()
 - [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-1-course-overview)
 # 08-24: Overview of California Water and Waste Water Systems
-![Page 0]( ../assets/lectures/08-24_Lecture_1.pdf-page0.png )
+![Page 0]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page0.png)
 
 ![Page 1]( ../assets/lectures/08-24_Lecture_1.pdf-page1.png )
 
