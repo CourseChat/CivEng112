@@ -9,7 +9,7 @@ Aug 24 (Wed)
 : Overview of California water; EBMUD’s water and wastewater systems
 : ( Kenichi Soga , Clifford Chan and David Katzev )
 
-: **Overview of California water; EBMUD’s water and wastewater systems**{: .label .label-lecture } [Name]()
+: **Overview of California water; EBMUD’s water and wastewater systems**{: .label .label-lecture } [ Overview of California water](/CivEng112/lectures/aug24)
 ( Kenichi Soga , Clifford Chan and David Katzev )
 
 Aug 26 (Fri) 
