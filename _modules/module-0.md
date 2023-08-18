@@ -2,7 +2,7 @@
 title: Overview of California water
 ---
 Aug 24 (Wed) 
-: **Course Overview**{: .label .label-green } [Overview](lecture/lec.00)
+: **Course Overview**{: .label .label-green } [Overview](lecture/lec00)
 : Projects; Homework; Quizzes; Exams; Site Visits; 
 : **Lecture 1**{: .label .label-lecture } [ Overview of California water](/CivEng112/lectures/aug24)
 
