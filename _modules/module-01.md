@@ -30,7 +30,7 @@ Aug 24
   : [Solution](#)
 
 Aug 26
-: **Lab**{: .label .label-purple } [Branstorming Innovation](#)
+: **Lab**{: .label .label-purple } [Brainstorming Innovation](#)
 : **HW 1**{: .label .label-red } [Branstorming Innovation](#)
 
 
