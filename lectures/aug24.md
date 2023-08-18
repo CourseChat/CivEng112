@@ -4,7 +4,10 @@ title: Lecture 1 – Course Overview
 nav_exclude: true
 ---
 
-# Lecture 1 – Introduction to CivEng 112
+# 08-24: Overview of California Water and Waste Water Systems
+
+
+Presented by Kenichi Soga , Clifford Chan and David Katzev
 
 
 - [slides](/CivEng112/assets/lectures/){:target="_blank"}
@@ -13,23 +16,7 @@ nav_exclude: true
 - [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-1-course-overview)
 # 08-24: Overview of California Water and Waste Water Systems
 
-![Page 0]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page0.png)
 
-![Page 1]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page1.png )
-
-![Page 2]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page2.png )
-
-![Page 3]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page3.png )
-
-![Page 4]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page4.png )
-
-![Page 5]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page5.png )
-
-![Page 6]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page6.png )
-
-![Page 7]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page7.png )
-
-![Page 8]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page8.png )
 
 ![Page 9]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page9.png )
 

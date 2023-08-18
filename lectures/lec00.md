@@ -4,11 +4,29 @@ title: Lecture 0 – Course Overview
 nav_exclude: true
 ---
 
-# Lecture 1 – Introduction
+# Lecture 0 – Introduction to CivEng 112
 
 Presented by Kenichi Soga , Clifford Chan and David Katzev
 
 - [slides](){:target="_blank"}
 - [code](){:target="_blank"}
-- [code HTML](../../resources/assets/lectures/lec01/lec01.html)
 - [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-1-course-overview)
+
+# Course Overview
+![Page 0]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page0.png)
+
+![Page 1]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page1.png )
+
+![Page 2]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page2.png )
+
+![Page 3]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page3.png )
+
+![Page 4]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page4.png )
+
+![Page 5]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page5.png )
+
+![Page 6]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page6.png )
+
+![Page 7]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page7.png )
+
+![Page 8]( /CivEng112/assets/lectures/08-24_Lecture_1.pdf-page8.png )
