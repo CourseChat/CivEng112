@@ -31,7 +31,7 @@ UC Berkeley, Fall 2022
 </div>
 
 {: .highlight }
-> Welcome to [Week 8](#week-{{page.currWeekNumber}})!
+> Welcome to [Week 1](#week-{{page.currWeekNumber}})!
 
 
 <a name="schedule"></a>
