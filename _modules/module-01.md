@@ -1,16 +1,12 @@
 ---
-title: Group work development and assignment
----
----
-title: Brainstorm new projects for EBMUD
+title: Explore Group work projects
 
 ---
-
-Module 1 
 
 Aug 29 (Mon ) 
-: **Group work assignment**{: .label .label-disc } [Group Project Discussion](/CivEng112/lectures/08-29) 5 min presentations+Q&A, 
+: **Group work assignment**{: .label .label-green } [Group Project Discussion](/CivEng112/lectures/08-29) 5 min presentations+Q&A, 
 : (Wonjun Cha )
+ Brainstorm new projects for EBMUD; form teams; decide on project topic; link to EBMUD teams
 
 Aug 31 (Wed ) 
 : **Group work assignment**{: .label .label-lab } [introduction 2 ](/CivEng112/lectures/) 5 min presentations+Q&A, 
