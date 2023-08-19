@@ -13,8 +13,9 @@ Aug 29 (Mon )
 : (Wonjun Cha )
 
 Aug 31 (Wed ) 
-: **Group work assignment**{: .label .label-lab } [introduction 2 ]() 5 min presentations+Q&A, 
+: **Group work assignment**{: .label .label-lab } [introduction 2 ](/CivEng112/lectures/) 5 min presentations+Q&A, 
 : (Wonjun Cha )
+: **Slides**{: .label .label-lab } [Slides](https://drive.google.com/drive/folders/1YC8G-8Jwm5JhEeXOOv6lpcU11ycCJ57T)
 
 Sept 2 (Fri) 
 : **Lab 2**{: .label .label-lab } [Finalizing project proposals]
