@@ -9,7 +9,7 @@ title: Brainstorm new projects for EBMUD
 Module 1 
 
 Aug 29 (Mon ) 
-: **Group work assignment**{: .label .label-disc } [introduction 1]() 5 min presentations+Q&A, 
+: **Group work assignment**{: .label .label-disc } [Group Project Discussion](/CivEng112/lectures/08-29) 5 min presentations+Q&A, 
 : (Wonjun Cha )
 
 Aug 31 (Wed ) 
