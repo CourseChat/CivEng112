@@ -45,7 +45,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Section
+      - name: Lab;Site Visits
         start: 11:00 AM
         end: 2:00 PM
         location: 
@@ -53,5 +53,5 @@ schedule:
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: 471 Davis
 ---
