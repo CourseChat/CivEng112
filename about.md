@@ -18,17 +18,20 @@ description: >-
  
 # CE112 Water & Wastewater Systems Design and Operation 
 
-:::{note}
-Today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), and [today's news reports](/CivEng112/assets/news/water-news). New scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering sources, as well as major reports from the State of California, water and energy utilities and planning agencies are added weekly. Follow EBMUD, Metropolitan, LADWP, San Francisco PUC, Tokyo Municipal, and other leading water utilites in the world.
-:::
+One of the greatest challenges facing civil engineers in the 21st century is the stewardship of the infrastructure to protect public health and the environment. Existing systems require 
+monitoring and remedial interventions as they are placed under increased stress, beyond their original design capabilities. In addition, the high cost of replacement often leads to a desire to extend an asset’s life beyond engineering limits, requiring new, extensive real-time monitoring of existing systems.
 
-:::{note}
-This JupyterBook has three parts. Part A recreates all presentations made in Fall, 2022 in Civil Engineering 112: _Water and Wastewater Systems Design and Operation_. Thirty senior engineers from EBMUD, in a close collaboration with UC Berkeley faculty, present the core engineering, planning, design, operation, and financial operation of a one-billion-dollar annual operating budget organization. EBMUD is responsible for continuous clean water supply to a million and a half person population in Northern California, and, in partnership with nine cities, treats wastewater for half that population. Through the UC Berkeley Center for Smart Infrastructure, it leads a state-wide coalition exploring innovations in rebuilding California's critical water infrastructure.
-:::
+This course will provide an opportunity to learn about real water and wastewater systems; we examine how the East Bay Municipal Utility District (EBMUD) rehabilitates or builds infrastructure that is sustainable and resilient so that future generations do not experience the infrastructure challenges we face today. 
 
-:::{note}
-Part B expands this curriculum to add new real-time data science explorations of operating data. Computational methods explore research on water engineering: materials, construction, real-time water quality assesment, water reuse designs, and extensive water efficiency. Ever-more comprehensive digital twins of the physical systems allow new management tools, plans, and analysis. Specifically, we build computational notebooks for each class module to incorporate data sources and actual computations for every numerical assertion. Goal: develop new tools of real-time data analysis to interact with responsive models of the operating plant as changes in supply, demand, weather, climate, and potential disasters affect it.  Document plans for rebuilding and reinstrumenting the plant for resilience and adaptation. Sections will analyze the financial, public health and community justice impact of rising sea level and groundwater tables, drought, and the engineering trade-offs of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
-:::
+ Thirty senior engineers from EBMUD, in a close collaboration with UC Berkeley faculty, present the core engineering, planning, design, operation, and financial operation of a one-billion-dollar annual operating budget organization. EBMUD is responsible for continuous clean water supply to a million and a half person population in Northern California, and, in partnership with nine cities, treats wastewater for half that population. Through the UC Berkeley Center for Smart Infrastructure, it leads a state-wide coalition exploring innovations in rebuilding California's critical water infrastructure.
+
+ Today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), and [today's news reports](/CivEng112/assets/news/water-news) reflect growing environmental and climate changes to our water infrastructure. We will explore how to  keep up-to-date with new scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering sources. We will examine, as well, major reports from the State of California, and from water and energy utilities, planning agencies, and engineering organizations world-wide. We will work with  EBMUD, Metropolitan, LADWP, San Francisco PUC, Tokyo Municipal, and other leading water utilites in the world as they face unprecedented challenges to provide clean water to all.
+
+We plan to expand this curriculum to add new real-time data science and machine learning explorations of operating data. New computational methods extend our understanding of water engineering: materials, construction, real-time water quality assessment, water reuse designs, and extensive water efficiency redesigns. Building ever-more comprehensive digital twins of our physical systems allow new management tools, plans, and analysis at levels of detail not possible in the past.
+
+Utilizing new tools of generative language models, chat interfaces, and computational notebooks, we incorporate new data sources, perform analysis for every numerical assertion, and explore the validity of the results of these new modeling tools.
+ 
+ Goal: develop new tools of real-time data analysis and generative language models to interact with responsive models of the operating plant as changes in supply, demand, weather, climate, and potential disasters affect it.  Document plans for rebuilding and reinstrumenting the plant for resilience and adaptation. Sections will analyze the financial, public health and community justice impact of rising sea level and groundwater tables, drought, and the engineering trade-offs of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
 
 
 
@@ -69,7 +72,7 @@ Office Hours: Wednesday 9:30-11:00am , or by appointment
   E-mail: shchiu@berkeley.edu 
  
 Course Description: Water and wastewater systems serving communities are complex, large, and were built and expanded over many decades. The infrastructure includes a network of reservoirs, pipelines, 
-pump stations, treatment plants, and other facilities that are connected to natural systems such as watersheds, rivers, groundwater basins, and bay and o cean environments. The planning, design, operation, and maintenance of urban water and wastewater systems require balancing many factors including aging infrastructure, changing regulations, climate change, costs, and community impacts. 
+pump stations, treatment plants, and other facilities that are connected to natural systems such as watersheds, rivers, groundwater basins, and bay and ocean environments. The planning, design, operation, and maintenance of urban water and wastewater systems require balancing many factors including aging infrastructure, changing regulations, climate change, costs, and community impacts. 
  
 One of the greatest challenges facing civil engineers in the 21st century is the stewardship 
 of the infrastructure to protect public health and the environment . Existing systems require 
@@ -77,7 +80,7 @@ monitoring or remedial interventions and are placed under increased stress, more
  originally designed. In addition, the high cost of replacement often leads to a desire to extend the asset’s life. This course will provide an opportunity to learn about real water 
 and wastewater systems and how the East Bay Municipal Utility District (EBMUD) 
 rehabilitates or builds infrastructure that is sustainable and resilient so that future 
-generations do not experience the infrastructure challenges we are currently facing today. 
+generations do not experience the infrastructure challenges we face today. 
 
 To achieve this, we need to better understand how the infrastructure functions as a system. 
 In this project-based course, students will research and investigate how to introduce innovations in the planning, design, construction, operations, and maintenance of water 

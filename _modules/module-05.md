@@ -8,7 +8,7 @@ Oct 24 (Mon)
 : (Alice Towey and Kenichi Soga )
 
 Oct 26 (Wed ) 
-: **Climate Change, and the Water/Energy Nexus**{: .label .label-lecture } [Climate Change, and the Water/Energy Nexus](/CivEng112/lectures/10-26) 
+: **Lecture 11**{: .label .label-lecture } [Climate Change, and the Water/Energy Nexus](/CivEng112/lectures/10-26) 
 : (Chandra Johannesson, Clifford Chan and Kenichi Soga)
 
 Oct 28 (Fri) 
@@ -16,11 +16,11 @@ Oct 28 (Fri)
 Quiz 5.
 
 Oct 31 (Mon) 
-: **Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges**{: .label .label-lecture } [Water and Wastewater Financing](/CivEng112/lectures/10-31) 
+: **Lecture 12**{: .label .label-lecture } [Water and Wastewater Financing: Capital and Operating Budgets, Rates and Charges](/CivEng112/lectures/10-31) 
 : (Sophia Skoda, Richard Lou and Kenichi Soga )
 
 Nov 2 (Wed ) 
-: **Water and Wastewater Financing – Capital Financing**{: .label .label-lecture } [Capital Financing](/CivEng112/lectures/11-02) 
+: **Lecture 13**{: .label .label-lecture } [Capital Financing](/CivEng112/lectures/11-02) 
 : (Robby Hannay and Kenichi Soga )
 
 Nov 4 (Fri) 
