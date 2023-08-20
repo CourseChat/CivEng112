@@ -1,5 +1,5 @@
 ---
-title: Module 3 - Water and Wastewater systems operations
+title: Week 5,6 - Water and Wastewater Systems Operations
 ---
 
 : Module 3 Water and Wastewater systems operations

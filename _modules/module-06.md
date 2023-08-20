@@ -1,7 +1,7 @@
 ---
-title: Module 6 - Project work
+title: Week 12 - Project work
 ---
-Module 6 
+: Module 6 
 Nov 7 (Mon)
 : **Project Work**{: .label .label-orange } 
 

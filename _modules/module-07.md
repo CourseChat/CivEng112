@@ -1,7 +1,7 @@
 ---
-title: Module 7 - Emergency/Community preparedness
+title: Week 13, 14 - Emergency/Community preparedness
 ---
-Module 7 
+: Module 7 
 
 Nov 14 (Mon) 
 : **Emergency preparedness overview and interconnected systems**{: .label .label-lecture } []() 
@@ -20,7 +20,7 @@ Nov 21 (Mon)
 
 Nov 23 (Wed) THANKSGIVING BREAK – no instruction 
 
-7 Nov 25 (Fri) THANKSGIVING BREAK – no instruction
+Nov 25 (Fri) THANKSGIVING BREAK – no instruction
 
 Nov 28 (Mon) 
 : **Cascading failures and community preparedness**{: .label .label-lecture } []() 

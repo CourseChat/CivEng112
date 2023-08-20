@@ -1,5 +1,5 @@
 ---
-title: Overview of California water
+title: Week 1: Overview of California water
 ---
 Aug 24 (Wed) 
 : **Course Overview**{: .label .label-green } [Overview](/CivEng112/lectures/08-24-0)

@@ -2,8 +2,9 @@
 title: Module 2 Water Supply and Natural Resources
 
 ---
-title: Demand Forecasting
+title: Week 3, 4: Water Supply
 ---
+: Module 2
 Sept 7 (Wed) 
 : **Lecture 1**{: .label .label-lecture } [Water supply, natural resources overview and innovations ](lecture/lec01)
 : (Mike Tognolini and Kenichi Soga )

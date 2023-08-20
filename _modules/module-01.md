@@ -1,5 +1,5 @@
 ---
-title: Explore Group work projects
+title: Week 2: Explore Group work projects
 
 ---
 
