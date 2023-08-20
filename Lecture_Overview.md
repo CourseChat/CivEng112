@@ -5,10 +5,10 @@ layout: page
 # Course Overview
 ## Lectures
 
-- 08-24: [Course Overview(/CivEng112/lectures/08-24-0)]	
+- 08-24: [Course Overview](/CivEng112/lectures/08-24-0)]	
 	- Professor Kenichi Soga: Member, NAE
 	- Clifford Chan: General Manager, EBMUD
-- 08-24: Overview of California Water and Wastewater Systems
+- 08-24: [Overview of California Water and Wastewater Systems](/CivEng112/lectures/08-24-1)
 	- Clifford Chan: General Manager
 	-  Dave Katzev
 - 08-26- lab: Developing Solutions Through Innovation
@@ -16,7 +16,7 @@ layout: page
 
 <hr>
 - 08-29: Group Project Planning
-	- Brainstorm-> Work Plan
+	- [Brainstorm-> Work Plan](/CivEng112/lectures/08-29)
 	-  David Katzev
 - 08-31: Group Project Planning
 	- Project Ideas, grouped by Module
