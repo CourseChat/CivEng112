@@ -76,7 +76,7 @@ layout: page
 
 - 10-10: [**Pipeline Design Fundamentals and Use of Innovative Materials**](/CivEng112/lectures/10-10)
 	- Roberts McMullin
-- 10-12: Innovations in Pipeline Renewal and Replacement
+- 10-12: [**Innovations in Pipeline Renewal and Replacement**](/CivEng112/lectures/10-12)
 	- David Katzev
 - 10-14-lab- no slides
 
@@ -98,7 +98,7 @@ layout: page
 
 - 10-24: [**Sustainability and Resilience**](/CivEng112/lectures/10-24)
 	- **Alice Tohey**
-- 10-26: Climate Change and the Water/Energy Nexus
+- 10-26: [**Climate Change and the Water/Energy Nexus**](/CivEng112/lectures/10-26)
 	- **Chandra Johannesson** 
 - 10-28-lab: Climate Change and the Water/Energy Nexus
 	- **Chandra Johannesson** 
@@ -149,7 +149,7 @@ layout: page
 
 - 11-28: [**Cascading Failures and Community Preparedness**](/CivEng112/lectures/11-28)
 	- **Dave Briggs**
-- 11-30: [**The Water and Wastewater Workforce**](CourseChat/CivEng112/lectures/11-30.md)
+- 11-30: [**The Water and Wastewater Workforce**](/CivEng112/lectures/11-30)
 	- **Derry Moten**
 - 12-2: Lab 12- Assignment 8: Dam Safety : Team Decisions
 
