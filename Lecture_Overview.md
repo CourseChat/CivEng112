@@ -5,7 +5,7 @@ layout: page
 # Course Overview
 ## Lectures
 
-- 08-24: Course Overview	
+- 08-24: [Course Overview(/CivEng112/lectures/08-24-0)]	
 	- Professor Kenichi Soga: Member, NAE
 	- Clifford Chan: General Manager, EBMUD
 - 08-24: Overview of California Water and Wastewater Systems
