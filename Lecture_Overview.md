@@ -1,5 +1,5 @@
 ---
-title: Lecture Overview
+title: Course Overview- Links to Lectures
 layout: page
 ---
 # Course Overview

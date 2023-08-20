@@ -1,22 +1,31 @@
-# Journalists with expertise in water
-- list by publication; list by name; provide links to stories
-## Publications
-### Water-Specific
+# Water News
+
+[California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/)
+
+## Water-Specific Publications
 - [Maven's Notebook](https://mavensnotebook.com/) Summarizes daily water stories, provides links to original stories. Must-read.
    - Chris Austin (Maven) summarizes all jounalism on California water. Donate.
 - [Public News Service](https://www.publicnewsservice.org/news-water/C34)
   -  Suzanne Potter, Producer
 - [California Water Blog](https://californiawaterblog.com/)
 - [California Water News Daily](https://californiawaternewsdaily.com/)
-- [Pacific Institute.(https://pacinst.org/)]
+- [Pacific Institute](https://pacinst.org/)
+
 <hr color="yellow">
+
+## Water Agencies and Organizations
+- [**UN Water**](https://www.unwater.org/)
+- [American Water Works Association](https://www.awwa.org/)
 - [Association of California Water Agencies](https://www.acwa.com/about/directory/)
 - [California Department of Water Resorces](https://water.ca.gov/news)
 - [US Geological Survey](https://www.usgs.gov/centers/california-water-science-center/news)
 - [California Water Environment Association](https://www.cwea.org/news/) Sanitation
 - [Public Policy Institute of California](https://www.ppic.org/water/)
 
+## News Publications
+
 ### California
+
 - [Los Angeles Times](https://www.latimes.com/topic/california-drought)
   - [RONG-GONG LIN II](https://www.latimes.com/people/rong-gong-lin-ii)
   - [GEORGE SKELTON](https://www.latimes.com/people/george-skelton)
@@ -29,11 +38,13 @@
   - [GABRIELLE LAMARR LEMEE](https://www.latimes.com/people/gabrielle-lamarr-lemee)
 
 - [Sacramento Bee](https://californiawaternewsdaily.com/)
-  - a number of water specialists
+  -  water specialists
 - [San Francisco Chronicle](https://www.sfchronicle.com/drought/)
     - water specialists
-- San Jose Mercury
+- [San Jose Mercury News]()
+
 ### United States
+
 - [New York Times](https://www.nytimes.com/topic/subject/water)
   - [MIKE IVES]
   - [Brian Gallagher](https://muckrack.com/brian-gallagher-9/articles)
@@ -45,11 +56,15 @@
   - [LISA FRIEDMAN]
   - [JACK HEALY]
 - [Washington Post](htts://washingtonpost.com)
-- Wall Street Journal
-- USA Today
-- Associated Press
-- Reuters
+- [Wall Street Journal]()
+- [USA Today]()
+- [Associated Press]()
+- [Reuters]()
   - JIM SALTER AND MICHAEL PHILLIS
+### India
+### China
+### Japan
+### Australia
 ### UK
 - [The Guardian]
   - Lewis Kendall
@@ -73,5 +88,7 @@
 ### Switzerland
 - [NZZ](https://www.nzz.ch/)
   - [Sven Titz]
-]
-### China
+### Kenya
+- [The Nation]
+- [**The East African**](https://www.theeastafrican.co.ke/tea/business)
+### Sudan

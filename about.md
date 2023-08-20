@@ -19,7 +19,7 @@ description: >-
 # CE112 Water & Wastewater Systems Design and Operation 
 
 :::{note}
-Today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), and [today's news reports](./WaterJournalists.md). New scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering sources, as well as major reports from the State of California, water and energy utilities and planning agencies are added weekly. Follow EBMUD, Metropolitan, LADWP, San Francisco PUC, Tokyo Municipal, and other leading water utilites in the world.
+Today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), and [today's news reports](/CivEng112/assets/news/water-news). New scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering sources, as well as major reports from the State of California, water and energy utilities and planning agencies are added weekly. Follow EBMUD, Metropolitan, LADWP, San Francisco PUC, Tokyo Municipal, and other leading water utilites in the world.
 :::
 
 :::{note}
