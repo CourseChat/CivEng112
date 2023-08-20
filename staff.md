@@ -24,3 +24,12 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign eng_lect = site.staffers | where: 'role', 'Engineer Lecturer' %}
+{% assign num_eng_lect = eng_lect | size %}
+{% if num_eng_lect != 0 %}
+## Engineer Lecturer
+{% for staffer in eng_lect %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
