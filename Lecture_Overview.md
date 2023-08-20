@@ -19,32 +19,32 @@ layout: page
 	- [Brainstorm-> Work Plan](/CivEng112/lectures/08-29)
 	-  David Katzev
 - 08-31: Group Project Planning
-	- Project Ideas, grouped by Module
+	- [**Project Ideas**](/CivEng112/lectures/08-31), grouped by Module
 	-  David Katzev
 - 09-02-lab-no slides
 <hr>
 - 09-05-Labor Day
-- 09-07: Water Supply: Water and Natural Resources Management
+- 09-07: [**Water Supply**: Water and Natural Resources Management](/CivEng112/lectures/09-07)
 	- Mike Tognolini
 - 09-09-lab-no slides
 <hr>
-- 09-12: Water Demand Forecasting
+- 09-12: [**Water Demand Forecasting**](/CivEng112/lectures/09-12)
 	- Brad Ledesma
-- 09-14: Water Supply:  Resilience and Portfolio Design
-	- Linda Hu
+- 09-14: [**Water Supply**:  Resilience and Portfolio Design](/CivEng112/lectures/09-14)
+	- **Linda Hu**
 - 09-16-lab-no slides
 <hr>
-- 09-19: Water and Wastewater System : Overview and Innovations
+- 09-19: [**Water and Wastewater System**](/CivEng112/lectures/09-19) : Overview and Innovations
 	- David Briggs
 	- Alicia Chakrabarti
 - 09-21:  Water Treatment Plant Design and Operations Overview
 	- Michael J Hartlaub
 - 09-23-lab-no slides
 
-- 09-26: Water Distribution System: Design and Operations
+- 09-26: [**Water Distribution System: Design and Operations**](/CivEng112/lectures/10-26)
 	- Damon Hom
-- 09-28: Wastewater treatment design: 
-	- North Interceptor Relief Sewer: design and operations
+- 09-28: Wastewater Treatment Design:
+	- [**North Interceptor Relief Sewer**](/CivEng112/lectures/09-28): design and operations
 	- Glenn Dombeck
 	- no slides
 - 09-30-lab: Wastewater treatment: design and operations
