@@ -45,7 +45,7 @@ schedule:
   - name: Thursday
   - name: Friday
     events:
-      - name: Lab;Site Visits
+      - name: Section
         start: 11:00 AM
         end: 2:00 PM
         location: 
