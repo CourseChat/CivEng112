@@ -1,6 +1,6 @@
 import yaml
 
-with open("/CivEng112/_data/pdf_urls.yml", "r") as yaml_file:
+with open("_data/pdf_urls.yml", "r") as yaml_file:
     data = yaml.safe_load(yaml_file)
 
 with open("output.html", "w") as html_file:
