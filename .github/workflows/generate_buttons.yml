@@ -1,0 +1,25 @@
+name: Generate Buttons
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch name
+
+jobs:
+  generate_buttons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8  # Change this to your preferred Python version
+
+      - name: Install Dependencies
+        run: pip install pyyaml
+
+      - name: Run Python Script
+        run: python generate_buttons.py  # Change this to your script's filename
