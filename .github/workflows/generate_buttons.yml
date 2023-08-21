@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: 3.8  # Change this to your preferred Python version
 
+      - name: Navigate to Repository Directory
+        run: cd $GITHUB_WORKSPACE
+
       - name: Install Dependencies
         run: pip install pyyaml
 
