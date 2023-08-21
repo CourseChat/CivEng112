@@ -25,12 +25,10 @@ schedule:
         start: 9:30 AM
         end: 11:00 AM
         location: 504 Davis
-
       - name: Lecture
         start: 11:00 AM
         end: 12:00 PM
         location: 212 O'Brien
-      
       - name: Office Hours
         start: 5:00 PM
         end: 6:00 PM
@@ -42,7 +40,6 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: 212 O'Brien
-      
       - name: Office Hours
         start: 4:30 PM
         end: 5:30 PM
@@ -53,7 +50,6 @@ schedule:
       - name: Section
         start: 11:00 AM
         end: 2:00 PM
-        location: 
-      
+        location: 212 O'Brien
       
 ---
