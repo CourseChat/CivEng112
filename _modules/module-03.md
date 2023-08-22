@@ -2,10 +2,10 @@
 title: Week 5,6 - Water and Wastewater Systems Operations
 ---
 
-: Module 3 Water and Wastewater systems operations
+Module 3 - Water and Wastewater systems Operations
 
 Sept 19 (Mon) 
-: **Lecture 4**{: .label .label-lecture } [Water and wastewater system overview]/CivEng112/lectures/09-19)
+: **Lecture 4**{: .label .label-lecture } [Water and wastewater system overview](/CivEng112/lectures/09-19)
 : (Dave Briggs, Alicia Chakrabarti and Kenichi Soga )
 
 Sept 21 (Wed) 

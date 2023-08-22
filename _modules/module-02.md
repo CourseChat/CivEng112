@@ -21,5 +21,5 @@ Sept 14 (Wed)
 : (Linda Hu and Kenichi Soga )
 
 Sept 16 (Fri) 
-: **Lab 4 – Assignment 3**{: .label .label-lab } [lecture/]
+: **Lab 4 – Assignment 3**{: .label .label-lab } [Lab 4]
 : Calculating the need for water and developing alternative water supply portfolios
