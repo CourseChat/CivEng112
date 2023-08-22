@@ -24,10 +24,11 @@ UC Berkeley, Fall 2022
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
   <div class="role">
     {% for staffer in instructors %}
-    {{ staffer }}
+    {{ staffer | inspect }}
     {% endfor %}
   </div>
 </div>
+
 
 {: .highlight }
 > Welcome to [Week 1](#week-{{page.currWeekNumber}})!
