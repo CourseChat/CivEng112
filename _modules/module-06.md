@@ -13,4 +13,4 @@ Nov 11 (Fri)
 : VETERANS DAY – no instruction 
 
 Nov 11 
-: **Assignment 7 : Submission of Preliminary Project Report **{: .label .label-orange }
+: **Assignment 7 : Submission of Preliminary Project Report**{: .label .label-orange }
