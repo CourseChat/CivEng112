@@ -24,6 +24,7 @@ UC Berkeley, Fall 2022
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
   <div class="role">
     {% for staffer in instructors %}
+        {{ staffer }}
     {% endfor %}
   </div>
 </div>
