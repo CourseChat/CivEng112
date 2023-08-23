@@ -122,8 +122,6 @@ Website: www.journals.elsevier.com/journal-of-hydrology
 Water Research: Covers research on water quality and its management.
 Website: www.journals.elsevier.com/water-research
 
-Hydrological Processes: Focuses on hydrological processes and their interactions with the environment.
-Website: onlinelibrary.wiley.com/journal/10991092
 
 Journal of Contaminant Hydrology: Publishes research on the transport and fate of contaminants in water.
 Website: www.journals.elsevier.com/journal-of-contaminant-hydrology
