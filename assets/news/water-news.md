@@ -22,7 +22,17 @@
 - [California Water News Daily](https://californiawaternewsdaily.com/)
 - [Pacific Institute](https://pacinst.org/)
 
+
 <hr color="yellow">
+- [National Geographic](https://www.nationalgeographic.com/search?q=water&location=srp&type=manual)
+- [ WorldWater](https://www.worldwater.org/)
+- [World Water Council](https://iwaponline.com/wp)
+- [Water International](https://www.tandfonline.com/toc/rwin20/current)
+- [BBC](https://www.bbc.com/news/science_and_environment)
+- [Water Deeply](https://deeply.thenewhumanitarian.org/water)
+- [Circle of Blue](https://www.circleofblue.org/)
+
+
 
 ## Water Agencies and Organizations
 - [**UN Water**](https://www.unwater.org/)
@@ -67,7 +77,8 @@
   - [LISA FRIEDMAN]
   - [JACK HEALY]
 - [Washington Post](htts://washingtonpost.com)
-- [Wall Street Journal]()
+- [Wall Street Journal](https://www.wsj.com/articles/pfas-forever-chemicals-how-to-reduce-654cd05b)
+  -  Technical reporters
 - [USA Today]()
 - [Associated Press]()
 - [Reuters]()
@@ -103,3 +114,36 @@
 - [The Nation]
 - [**The East African**](https://www.theeastafrican.co.ke/tea/business)
 ### Sudan
+<hr color="blue">
+### Journals
+
+Water Resources Research: Interdisciplinary journal covering water resources research.
+Website: agupubs.onlinelibrary.wiley.com/journal/19447973
+
+Journal of Hydrology: Publishes research on all aspects of hydrology and water resources.
+Website: www.journals.elsevier.com/journal-of-hydrology
+
+Water Research: Covers research on water quality and its management.
+Website: www.journals.elsevier.com/water-research
+
+Hydrological Processes: Focuses on hydrological processes and their interactions with the environment.
+Website: onlinelibrary.wiley.com/journal/10991092
+
+Journal of Contaminant Hydrology: Publishes research on the transport and fate of contaminants in water.
+Website: www.journals.elsevier.com/journal-of-contaminant-hydrology
+
+Environmental Science & Technology: Covers various environmental science topics, including water-related issues.
+Website: pubs.acs.org/journal/esthag
+
+Journal of Environmental Management: Focuses on environmental management and sustainability.
+Website: www.journals.elsevier.com/journal-of-environmental-management
+
+Journal of the American Water Resources Association (JAWRA): Publishes multidisciplinary research on water resources.
+Website: awra.org/jawra
+
+Hydrology and Earth System Sciences: Discusses hydrology and its interactions with other Earth systems.
+Website: www.hydrology-and-earth-system-sciences.net
+
+Journal of Water Resources Planning and Management: Publishes research on water resources planning and management.
+Website: ascelibrary.org/journal/jwrmd5
+
