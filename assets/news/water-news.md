@@ -8,7 +8,7 @@
 
 ## Water-Specific Publications
 ### Maven's Notebook
-[***Maven's Notebook**](https://mavensnotebook.com/)
+[**Maven's Notebook**](https://mavensnotebook.com/)
 - Summarizes daily water stories, provides links to original stories. Must-read.
    - Chris Austin (Maven) summarizes all jounalism on California water. Donate.
 - [Public News Service](https://www.publicnewsservice.org/news-water/C34)
@@ -113,11 +113,10 @@
 <hr color="blue">
 ### Journals
 
-Water Resources Research: Interdisciplinary journal covering water resources research.
-Website: agupubs.onlinelibrary.wiley.com/journal/19447973
+[Water Resources Research](agupubs.onlinelibrary.wiley.com/journal/19447973)
+Interdisciplinary journal covering water resources research.
 
-Journal of Hydrology: Publishes research on all aspects of hydrology and water resources.
-Website: www.journals.elsevier.com/journal-of-hydrology
+[Journal of Hydrology](www.journals.elsevier.com/journal-of-hydrology) - Publishes research on all aspects of hydrology and water resources.
 
 Water Research: Covers research on water quality and its management.
 Website: www.journals.elsevier.com/water-research
@@ -132,8 +131,7 @@ Website: pubs.acs.org/journal/esthag
 Journal of Environmental Management: Focuses on environmental management and sustainability.
 Website: www.journals.elsevier.com/journal-of-environmental-management
 
-Journal of the American Water Resources Association (JAWRA): Publishes multidisciplinary research on water resources.
-Website: awra.org/jawra
+[Journal of the American Water Resources Association (JAWRA)](awra.org/jawra) - Publishes multidisciplinary research on water resources.
 
 Hydrology and Earth System Sciences: Discusses hydrology and its interactions with other Earth systems.
 Website: www.hydrology-and-earth-system-sciences.net
