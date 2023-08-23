@@ -8,8 +8,7 @@
 
 ## Water-Specific Publications
 ### Maven's Notebook
-- <iframe src="https://mavensnotebook.com/" width="600" height="600" frameborder="0">
-
+[***Maven's Notebook**](https://mavensnotebook.com/)
 - Summarizes daily water stories, provides links to original stories. Must-read.
    - Chris Austin (Maven) summarizes all jounalism on California water. Donate.
 - [Public News Service](https://www.publicnewsservice.org/news-water/C34)
@@ -28,6 +27,7 @@
 - [Water Deeply](https://deeply.thenewhumanitarian.org/water)
 - [Circle of Blue](https://www.circleofblue.org/)
 
+- <iframe src="https://pacinst.org/" width="600" height="600" frameborder="0">
 
 
 ## Water Agencies and Organizations
