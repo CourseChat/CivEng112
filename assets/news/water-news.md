@@ -1,11 +1,20 @@
 # Water News
 
+### California Water Reservoir Levels At This Minute
+<iframe src="https://engaging-data.com/ca-reservoir-dashboard/" width="800" height="600" frameborder="0"></iframe>
+
 ![California Water Reservoir Levels At This Minute!](https://engaging-data.com/ca-reservoir-dashboard/)
-[ Reservoirs and Snow Pack](https://engaging-data.com/california-reservoirs-and-snowpack/)
-[Northern California Rainfall Levels-1920 to Present](https://engaging-data.com/california-precipitation-levels/)
+
+<iframe src="https://engaging-data.com/california-reservoirs-and-snowpack/" width="600" height="600" frameborder="0">
+
+[ **Reservoirs and Snow Pack**](https://engaging-data.com/california-reservoirs-and-snowpack/)
+[**Northern California Rainfall Levels-1920 to Present**](https://engaging-data.com/california-precipitation-levels/)
 
 ## Water-Specific Publications
-- ![Maven's Notebook](https://mavensnotebook.com/) Summarizes daily water stories, provides links to original stories. Must-read.
+### Maven's Notebook
+- <iframe src="https://mavensnotebook.com/" width="600" height="600" frameborder="0">
+
+- Summarizes daily water stories, provides links to original stories. Must-read.
    - Chris Austin (Maven) summarizes all jounalism on California water. Donate.
 - [Public News Service](https://www.publicnewsservice.org/news-water/C34)
   -  Suzanne Potter, Producer
