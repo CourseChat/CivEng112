@@ -40,6 +40,6 @@ Oct 19 (Wed)
 : (Carlton Chan and Kenichi Soga )
 
 Oct 21 (Fri) 
-: **Lab 9 - Group work discussion**{: .label .label-lab } 
+: **Lab 9 - Group work discussion**{: .label .label-lab } [Preparing A Pipeline Design](/CivEng112/lectures/10-21_lab)
 
 : **Assignment 5: Preparing a pipeline design**{: .label .label-hw }

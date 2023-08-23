@@ -89,7 +89,8 @@ layout: page
 
 - 10-19: [**Preparing a Pipeline Design**](/CivEng112/lectures/10-19)
 	- **Carlton Chan**: Manager of Pipeline Infrastructure
-- 10-21-lab: Preparing a Pipeline Design: Practical Demonstration
+- 10-21-lab: [**Preparing a Pipeline Design** Practical Demonstration](/CivEng112/lectures/10-21_lab)
+
 	- **Carlton Chan**
 	- **Roberts McMullin** 
 
