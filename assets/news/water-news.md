@@ -1,11 +1,7 @@
 # Water News
 
 ### California Water Reservoir Levels At This Minute
-<iframe src="https://engaging-data.com/ca-reservoir-dashboard/" width="800" height="600" frameborder="0"></iframe>
-
-![California Water Reservoir Levels At This Minute!](https://engaging-data.com/ca-reservoir-dashboard/)
-
-<iframe src="https://engaging-data.com/california-reservoirs-and-snowpack/" width="600" height="600" frameborder="0">
+[California Water Reservoir Levels At This Minute!](https://engaging-data.com/ca-reservoir-dashboard/)
 
 [ **Reservoirs and Snow Pack**](https://engaging-data.com/california-reservoirs-and-snowpack/)
 [**Northern California Rainfall Levels-1920 to Present**](https://engaging-data.com/california-precipitation-levels/)
