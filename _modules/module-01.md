@@ -13,8 +13,8 @@ Aug 31 (Wed )
 : **Slides**{: .label .label-lab } [Slides](https://drive.google.com/drive/folders/1YC8G-8Jwm5JhEeXOOv6lpcU11ycCJ57T)
 
 Sept 2 (Fri) 
-: **Lab 2**{: .label .label-lab } [Finalizing project proposals]
-: **Lab 2 – Assignment 2**  
+: **Lab 2**{: .label .label-purple } [Finalizing project proposals]
+: **Lab 2 – Assignment 2**{: .label .label-red }
 : (Wonjun Cha, Shi-Hung Chiu and Kenichi Soga)
 
 Sept 5 (Mon) LABOR DAY – no instruction

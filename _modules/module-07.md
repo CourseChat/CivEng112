@@ -31,6 +31,6 @@ Nov 30 (Wed )
 : (Derry Moten and Kenichi Soga )
 
 Dec 2 (Fri)
-: **Lab 12 - Dam safety exercise**{: .label .label-lecture } []()
+: **Lab 12 - Dam safety exercise**{: .label .label-purple } []()
 : (Elizabeth Bialek and Priyanka Jain)
-: **Assignment 8**{: .label .label-lab }
+: **Assignment 8**{: .label .label-red }

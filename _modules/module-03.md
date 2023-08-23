@@ -13,12 +13,12 @@ Sept 21 (Wed)
 : (Mike Hartlaub and Kenichi Soga )
 
 Sept 23 (Fri) 
-: **Lab 5 – Field visit to Sobrante Water Treatment Plant**{: .label .label-lab } 
+: **Lab 5 – Field visit to Sobrante Water Treatment Plant**{: .label .label-purple } 
 
-: Quiz 2.
+: **Quiz 2**{: .label .label-orange }
 
 Sept 24 (Sat) 
-: **Optional - Field Trip to Pardee Reservoir**
+: **Optional - Field Trip to Pardee Reservoir**{: .label .label-purple } 
 
 Sept 26 (Mon) 
 : **Lecture 6**{: .label .label-lecture } [Water Distribution System Design and operations](/CivEng112/lectures/09-26) 
@@ -29,6 +29,6 @@ Sept 28 (Wed )
 : (Glenn Dombeck and Kenichi Soga )
 
 Sept 30 (Fri) 
-: **Lab 6 – Field visit to the Main Wastewater Treatment Plant**{: .label .label-lab } 
+: **Lab 6 – Field visit to the Main Wastewater Treatment Plant**{: .label .label-purple } 
 : (Glenn Dombeck, Kevin Dickison, and Alicia Chakrabarti)
-: Quiz 3
+: **Quiz 3**{: .label .label-orange }

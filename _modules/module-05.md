@@ -12,8 +12,8 @@ Oct 26 (Wed )
 : (Chandra Johannesson, Clifford Chan and Kenichi Soga)
 
 Oct 28 (Fri) 
-: **Lab 10 - Visit to East Bay Watershed.**{: .label .label-lab } 
-Quiz 5.
+: **Lab 10 - Visit to East Bay Watershed.**{: .label .label-purple } 
+: **Quiz 5**{: .label .label-orange }
 
 Oct 31 (Mon) 
 : **Lecture 12**{: .label .label-lecture } [Water and Wastewater Financing: Capital and Operating Budgets, Rates and Charges](/CivEng112/lectures/10-31) 
@@ -24,6 +24,6 @@ Nov 2 (Wed )
 : (Robby Hannay and Kenichi Soga )
 
 Nov 4 (Fri) 
-: **Lab 11 - Group work discussion**{: .label .label-lab } 
-: **Assignment 6 : Financial analysis and assessment of water supply alternatives** []() 
+: **Lab 11 - Group work discussion**{: .label .label-purple } 
+: **Assignment 6 : Financial analysis and assessment**{: .label .label-red } []() 
 : (Sophia Skoda to lead with assistance from Richard Lou, Robby Hannay, Sam Feldman)

@@ -9,8 +9,8 @@ Sept 7 (Wed)
 : (Mike Tognolini and Kenichi Soga )
 
 Sept 9 (Fri) 
-: **Lab 3 – Field visit to San Pablo Reservoir**{: .label .label-lab } []()
-: Quiz 1.
+: **Lab 3 – Field visit to San Pablo Reservoir**{: .label .label-purple } []()
+: **Quiz 1**{: .label .label-orange }
 
 Sept 12 (Mon) 
 : **Lecture 3**{: .label .label-lecture } [**Water Demand Forecasting**](/CivEng112/lectures/09-12)
@@ -21,5 +21,6 @@ Sept 14 (Wed)
 : (Linda Hu and Kenichi Soga )
 
 Sept 16 (Fri) 
-: **Lab 4 – Assignment 3**{: .label .label-lab } [Lab 4]
+: **Lab 4 **{: .label .label-purple } [Lab 4]
+: **Assignment 3**{: .label .label-red }
 : Calculating the need for water and developing alternative water supply portfolios

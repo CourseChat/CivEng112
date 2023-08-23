@@ -15,8 +15,8 @@ Oct 5 (Wed)
 : (Dave Rehnstrom, Bill Maggiore and Kenichi Soga )
 
 Oct 7 (Fri) 
-: **Lab 7 – Field visit to pipeline replacement sites**{: .label .label-lab } 
-: Quiz 4.
+: **Lab 7 – Field visit to pipeline replacement sites**{: .label .label-purple } 
+: **Quiz 4**{: .label .label-orange }
 
 Oct 10 (Mon ) 
 : **Lecture 9**{: .label .label-lecture } [Pipeline design fundamentals and use of innovative materials](/CivEng112/lectures/10-10) 
@@ -27,9 +27,9 @@ Oct 12 (Wed)
 : (David Katzev and Kenichi Soga )
 
 Oct 14 (Fri) 
-: **Lab 8 – CSI pipeline failure testing at Richmond Field Station**{: .label .label-lab }
+: **Lab 8 – CSI pipeline failure testing at Richmond Field Station**{: .label .label-purple }
 
-: **Assignment 4: Evaluating pipeline failures**{: .label .label-hw }
+: **Assignment 4: Evaluating pipeline failures**{: .label .label-red }
 
 Oct 17 (Mon) 
 : **Lecture 11**{: .label .label-lecture } [Pipeline failure analysis](/CivEng112/lectures/10-17) 
@@ -42,4 +42,4 @@ Oct 19 (Wed)
 Oct 21 (Fri) 
 : **Lab 9 - Group work discussion**{: .label .label-lab } [Preparing A Pipeline Design](/CivEng112/lectures/10-21_lab)
 
-: **Assignment 5: Preparing a pipeline design**{: .label .label-hw }
+: **Assignment 5: Preparing a pipeline design**{: .label .label-red }
