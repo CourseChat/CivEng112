@@ -11,7 +11,7 @@ Oct 3 (Mon)
 : (Jimi Yoloye and Kenichi Soga )
 
 Oct 5 (Wed) 
-: **Lecture 8** [Resilient System Design including Sustainability](/CivEng112/lectures/10-05) 
+: **Lecture 8**{: .label .label-lecture } [Resilient System Design including Sustainability](/CivEng112/lectures/10-05) 
 : (Dave Rehnstrom, Bill Maggiore and Kenichi Soga )
 
 Oct 7 (Fri) 

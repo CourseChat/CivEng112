@@ -12,7 +12,7 @@ Nov 16 (Wed )
 : (Serge Terentieff and Kenichi Soga )
 
 Nov 18 (Fri) 
-: **Feedback on Preliminary Project Report**{: .label .label-orange } []()
+: **Feedback on Preliminary Project Report**{: .label .label-proj } []()
 
 Nov 21 (Mon) 
 : **Lecture 16**{: .label .label-lecture } [Emergency Operations Planning and Dam Safety](/CivEng112/lectures/11-21) 
@@ -31,6 +31,6 @@ Nov 30 (Wed )
 : (Derry Moten and Kenichi Soga )
 
 Dec 2 (Fri)
-: **Lab 12 - Dam safety exercise**{: .label .label-purple } []()
+: **Lab 12 - Dam safety exercise**{: .label .label-lab } []()
 : (Elizabeth Bialek and Priyanka Jain)
 : **Assignment 8**{: .label .label-red }

@@ -9,7 +9,7 @@ Aug 24 (Wed)
 : ( Kenichi Soga , Clifford Chan and David Katzev )
 
 Aug 26 (Fri) 
-: **Lab 1**{: .label .label-purple } [Industy Challenges-Developing Solutions Through Innovation](/CivEng112/lectures/08-26) 
+: **Lab 1**{: .label .label-lab } [Industy Challenges-Developing Solutions Through Innovation](/CivEng112/lectures/08-26) 
 : **Industy Challenges-Developing Solutions Through Innovation**{: .label .label-lab }[Brainstorm innovations](/CivEng112/lectures/08-26)
 
 : Lab 1 – California water and wastewater systems

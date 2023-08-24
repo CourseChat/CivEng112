@@ -24,6 +24,6 @@ Nov 2 (Wed )
 : (Robby Hannay and Kenichi Soga )
 
 Nov 4 (Fri) 
-: **Lab 11 - Group work discussion**{: .label .label-purple } 
+: **Lab 11 - Group work discussion**{: .label .label-lab } 
 : **Assignment 6 : Financial analysis and assessment**{: .label .label-red } []() 
 : (Sophia Skoda to lead with assistance from Richard Lou, Robby Hannay, Sam Feldman)
