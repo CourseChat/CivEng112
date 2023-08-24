@@ -10,7 +10,6 @@ Brainstorm new projects for EBMUD; form teams; decide on project topic; link to 
 Aug 31 (Wed ) 
 : **Group work assignment**{: .label .label-green } [Exploring Innovation ](/CivEng112/lectures/08-31)  
  (Wonjun Cha )
-: **Slides**{: .label .label-lab } [Slides](https://drive.google.com/drive/folders/1YC8G-8Jwm5JhEeXOOv6lpcU11ycCJ57T)
 
 Sept 2 (Fri) 
 : **Lab 2**{: .label .label-purple } [Finalizing project proposals]
