@@ -10,8 +10,10 @@
     - 2022: State of the Water Industry: https://bcourses.berkeley.edu/courses/1516536/files/83922118?wrap=1
     - Guidance for developing water industry innovation: https://bcourses.berkeley.edu/courses/1516536/files/83922117?wrap=1
 
-    - data
+    - data:
         - spreadsheets: 
+   - Colab:  
+        - example; [from .xlsx to Pandas](https://colab.research.google.com/drive/1bnUNjjDpCtl8WNs23rsrHFoKbT-ZDBra#scrollTo=ve7FwUupE-7J)   
 
 - Week 2:
     - 
