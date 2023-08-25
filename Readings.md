@@ -32,5 +32,5 @@
 - Lecture 1:
     - [V1](https://bcourses.berkeley.edu/courses/1516536/external_tools/78985). -- from RTL course capture: Nov 28 54min
     - [V2](https://bcourses.berkeley.edu/courses/1516536/external_tools/78985). - Derry Moten- from RTL course capture: Nov 30, 2023
-    -[V0] (https://kaf.berkeley.edu/media/t/1_ifv3gzcn/269232482) - from RTL course capture: August 24, 2023
+    - [V0] (https://kaf.berkeley.edu/media/t/1_ifv3gzcn/269232482) - from RTL course capture: August 24, 2023
 
