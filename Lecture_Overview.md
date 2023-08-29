@@ -2,7 +2,8 @@
 title: Course Lectures and Labs
 layout: page
 ---
-# Course Overview
+# Course Lectures and Labs
+- videos may be accesible only to those with CalNet and bCourses access
 ## Lectures
 
 - 08-24: [Course Overview](/CivEng112/lectures/08-24-0)	
